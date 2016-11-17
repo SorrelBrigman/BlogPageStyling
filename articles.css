@@ -47,3 +47,20 @@ Blog Three Styling
   	border-radius: 15%;
 
 }
+
+
+/**************
+Blog Four Styling
+**************/
+
+
+#blogFour {
+	background-color: honeydew;
+	font-family: 'Lobster', cursive;
+	font-size: .8em;
+  	color: darkslategray;
+  	line-height: .8em;
+  	padding: 7%;
+  	border: 2px solid greenyellow;
+  	border-radius: 20%;
+}
