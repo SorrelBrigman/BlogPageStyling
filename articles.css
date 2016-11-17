@@ -39,7 +39,7 @@ Blog Three Styling
 #blogThree {
 	background-color: lightblue;
 	font-family: 'Indie Flower', cursive;
-	font-size: 2em;
+	font-size: 1em;
   	color: gray;
   	line-height: 2em;
   	padding: 5%;
@@ -63,4 +63,20 @@ Blog Four Styling
   	padding: 7%;
   	border: 2px solid greenyellow;
   	border-radius: 20%;
+}
+
+/**************
+Blog Five Styling
+**************/
+
+
+#blogFive {
+	background-color: darkturquoise;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 2.5em;
+  	color: midnightblue;
+  	line-height: 2.4em;
+  	padding: 10%;
+  	border: 3px solid aqua;
+  	border-radius: 25%;
 }
