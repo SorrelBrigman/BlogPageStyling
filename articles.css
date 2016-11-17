@@ -30,3 +30,20 @@ Blog Two Styling
   	border-radius: 10%;
 
 }
+
+/**************
+Blog Three Styling
+**************/
+
+
+#blogThree {
+	background-color: lightblue;
+	font-family: 'Indie Flower', cursive;
+	font-size: 2em;
+  	color: gray;
+  	line-height: 2em;
+  	padding: 5%;
+  	border: 3px solid cyan;
+  	border-radius: 15%;
+
+}
