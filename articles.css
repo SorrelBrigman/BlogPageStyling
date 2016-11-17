@@ -1,0 +1,15 @@
+/**************
+Blog One Styling
+**************/
+
+#blogOne {
+  background-color: lightpink;
+  font-family: 'Delius Unicase', cursive;
+  font-size: 2em;
+  color: grey;
+  line-height: 1em;
+  padding: 2%;
+  border: 1px solid black;
+  border-radius: 5%;
+
+}
