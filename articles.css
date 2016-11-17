@@ -13,3 +13,20 @@ Blog One Styling
   border-radius: 5%;
 
 }
+
+/**************
+Blog Two Styling
+**************/
+
+
+#blogTwo {
+	background-color: lavender;
+	font-family: 'Ranga', cursive;
+	font-size: 1.5em;
+  	color: black;
+  	line-height: 1.5em;
+  	padding: 3%;
+  	border: 2px solid purple;
+  	border-radius: 10%;
+
+}
